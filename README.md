@@ -4,6 +4,7 @@
 ## Gaston Gaspar
 ## gasparshifer232@gmail.com
 ## gasparshifer232
+## Profesores: Oscar Hoyos y Manuel Serrano
 ## problematica
 “Don Vito” es un emprendimiento gastronómico dedicado a la venta de sándwiches artesanales, caracterizado por una estética elegante, con predominio de colores oscuros y un estilo visual llamativo. Aunque su identidad de marca resulta atractiva y distintiva, el negocio presenta una problemática importante en su funcionamiento diario.
 Actualmente, “Don Vito” no cuenta con un local físico abierto al público. Si bien dispone de un espacio desde donde prepara sus productos, no existe un punto de venta donde los clientes puedan acercarse, ver el menú o realizar pedidos de manera directa. Esto obliga a que toda la operación comercial se realice exclusivamente a través de redes sociales y mensajería instantánea, principalmente WhatsApp.
