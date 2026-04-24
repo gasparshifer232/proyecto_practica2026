@@ -4,9 +4,11 @@
 ## Gaston Gaspar
 ## gasparshifer232@gmail.com
 ## gasparshifer232
-## El local de comida actualmente no cuenta con una plataforma digital propia que permita mostrar sus productos, promociones y datos relevantes de manera clara y accesible.
-Esto genera dificultades para los clientes al momento de conocer la oferta disponible, realizar pedidos de forma rápida y confiable, y obtener información como ubicación y horarios.
-Además, la ausencia de un sistema digital limita las oportunidades de aumentar ventas, mejorar la experiencia del cliente y fortalecer la presencia del negocio en internet.
+## “Don Vito” es un emprendimiento gastronómico dedicado a la venta de sándwiches artesanales, caracterizado por una estética elegante, con predominio de colores oscuros y un estilo visual llamativo. Aunque su identidad de marca resulta atractiva y distintiva, el negocio presenta una problemática importante en su funcionamiento diario.
+Actualmente, “Don Vito” no cuenta con un local físico abierto al público. Si bien dispone de un espacio desde donde prepara sus productos, no existe un punto de venta donde los clientes puedan acercarse, ver el menú o realizar pedidos de manera directa. Esto obliga a que toda la operación comercial se realice exclusivamente a través de redes sociales y mensajería instantánea, principalmente WhatsApp.
+Por otro lado, la ausencia de un sitio web limita la presencia digital de “Don Vito”, ya que no cuenta con un espacio propio donde reflejar su identidad de marca, mostrar sus productos de manera profesional y facilitar el acceso a la información. Esto puede generar desconfianza en nuevos clientes y dificulta el crecimiento del emprendimiento.
+En este contexto, se plantea la necesidad de desarrollar un sitio web que funcione como un punto de encuentro digital entre el negocio y sus clientes, permitiendo organizar el catálogo, mejorar la gestión de pedidos y reforzar la imagen del local, aun sin contar con un espacio físico de atención al público.
+
 ## Desarrollar un sistema web para el local de comida que permita exhibir sus productos, facilitar la realización de pedidos online y mejorar la interacción con los clientes, contribuyendo al incremento de ventas y posicionamiento digital del negocio.
 ## Objetivos específicos
 Diseñar una interfaz web intuitiva que permita visualizar el catálogo de productos, promociones y datos del local de forma clara y atractiva.
