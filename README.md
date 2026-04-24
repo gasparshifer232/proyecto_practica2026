@@ -38,3 +38,4 @@ No se incluirán en esta etapa:
 Sistema de pagos online (solo pedidos).
 Gestión avanzada de stock.
 Panel administrativo complejo (puede plantearse como mejora futura).
+## Tecnologias: 
